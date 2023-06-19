@@ -43,4 +43,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-C:\Users\Admin\Desktop\daily_driver\lib\const\api_credentials.dart
+
+lib/const/api_credentials.dart
